@@ -11,7 +11,7 @@ namespace PruebaNet5Core.Controllers
     
         public ViewResult Index()
         {
-            ViewBag.Dato = "Saludos desde la vista";
+            ViewBag.Dato = "Saludos desde la vista - prueba GIT";
             return View();
         }
 
